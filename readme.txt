@@ -6,3 +6,4 @@ Git is free software distributed under the GPL.
 66
 77
 88
+stash
